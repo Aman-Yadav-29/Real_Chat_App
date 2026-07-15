@@ -1,0 +1,12 @@
+/* importing google fonts and tailwindcss */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Redressed&display=swap');
+@import "tailwindcss";
+
+*{
+   font-family: "Outfit", sans-serif;
+}
+
+/* horizontal scrollbars disabled */
+*::-webkit-scrollbar{
+  display: none;
+}
